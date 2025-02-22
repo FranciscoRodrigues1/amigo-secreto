@@ -121,6 +121,11 @@ function sortearAmigo() {
     resultadoElement.innerHTML = `<li>🎉 Amigo sorteado: <strong>${sorteado}</strong></li>`;
 }
 ```
+### Captura de tela
+
+
+https://github.com/user-attachments/assets/87735eb7-8260-4f13-82a5-c599309632e8
+
 
 ---
 
